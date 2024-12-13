@@ -1,0 +1,11 @@
+[ {
+  "id" : 4,
+  "name" : "ajay",
+  "age" : 1,
+  "address" : {
+    "streetName" : "s",
+    "completeAddress" : "e",
+    "pincode" : 4
+  },
+  "book" : null
+} ]
